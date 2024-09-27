@@ -43,7 +43,7 @@ Alegre, RS: Bookman, 2009. 282 p. (Livros didáticos informática UFRGS;
 
 * Aula 1: Introdução à Programação Orientada a Objetos
 
-* Aula 2: Abstração, Classes e Instâncias
+* Aula 2: Abstração, Classes e Instâncias; 
 
 * Aula 3: Atributos e Métodos: Definição e Uso
 

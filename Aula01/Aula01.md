@@ -117,12 +117,6 @@ public class Main {
 
 ---
 
-### 5. Exercício Prático
-
-**Tarefa**: Crie uma nova classe chamada `Livro`, com os atributos `titulo`, `autor`, e `anoDePublicacao`. Adicione métodos para exibir as informações do livro e para alterar o título. Em seguida, crie um objeto dessa classe e teste os métodos.
-
----
-
 
 **Material Adicional**: 
 - [Documentação Java: Classes e Objetos](https://docs.oracle.com/javase/tutorial/java/concepts/class.html)

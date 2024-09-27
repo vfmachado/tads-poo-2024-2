@@ -20,7 +20,7 @@ public class Main {
 
         calc.dividir(calc.memoria(), 10);    // 4
 
-        calc.multiplica(3) // vai pegar o estado
+        calc.multiplica(3); // vai pegar o estado
                         // 4 * 3 = 12
 
     }

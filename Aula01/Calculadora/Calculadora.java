@@ -9,5 +9,7 @@ public class Calculadora {
     // MULTI
     // DIVISAO
 
-
+    // metodo memoria
+    // metodo salvarMemoria
+    // metodo estado
 }
