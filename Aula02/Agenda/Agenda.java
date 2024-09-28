@@ -26,8 +26,21 @@ public class Agenda {
         this.contatos.add(c);
     }
 
-    // TODO
-    // public List<Contato> procurar(String parteNome) { }
+    // TODO PRINTAR A LISTA E RETORNAR =)
+    public List<Contato> procurar(String parteNome) {
+        List<Contato> filtrados = new ArrayList<Contato>();
+        String parte = parteNome.toUpperCase();
+        // for (int i = 0; i < this.contatos.size(); i++) {
+        //     Contato c = this.contatos.get(i);
+        for (Contato c : this.contatos) {
+            if (c.getNome().contains(parte)) {
+                filtrados.add(c);
+            }
+        }
+
+
+        return filtrados;
+    }
 
     // TODO
     // remover pelo nome

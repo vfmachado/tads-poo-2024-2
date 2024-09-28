@@ -24,7 +24,7 @@ public class Contato {
     }
     // this vem para solucionar o problema do nome do parametro ser igual ao nome do atributo.
     public Contato(String nome, String telefone) {
-        this.nome = nome;
+        this.setNome(nome);
         this.telefone = telefone;
     }
 
