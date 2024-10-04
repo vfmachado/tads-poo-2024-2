@@ -6,3 +6,7 @@ Existem várias ferramentas que podem ser usadas para criar diagramas de classes
 - **StarUML** (desktop).
 - **Visual Paradigm** (desktop).
 
+
+## Links Interessantes
+
+https://www.devmedia.com.br/orientacoes-basicas-na-elaboracao-de-um-diagrama-de-classes/37224
