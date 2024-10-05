@@ -9,7 +9,7 @@ public class Exemplo {
     }
 
     public static void main(String[] args) {
-
+p
         float [] notas = { 8, 9, 7.5f, 10, 8.5f, 9.3f};
 
         float resultado = media(notas);
