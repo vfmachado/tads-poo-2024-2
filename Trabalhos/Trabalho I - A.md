@@ -31,7 +31,7 @@ O sistema é um software de reserva de quartos que permite gerenciar múltiplos 
 
 5. **Administrador**
    - **Atributos**: nome, id.
-   - **Métodos**: adicionarHotel(), removerHotel(), gerenciarQuartos().
+   - **Métodos**: adicionarHotel(), removerHotel().
 
 ### Princípios POO Aplicados:
 

@@ -1,0 +1,6 @@
+Classe Abstrata de Formas Geométricas
+Crie uma classe abstrata Forma com um método abstrato calcularArea(). Implemente as classes Circulo, Retangulo, e Quadrado (extends Retangulo), que calculam a área de cada forma geométrica.
+
+
+Sistema de Funcionários
+Crie uma classe abstrata Funcionario com o método abstrato calcularSalario(). Implemente as classes Gerente e Vendedor que herdam de Funcionario e implementam o cálculo do salário.
