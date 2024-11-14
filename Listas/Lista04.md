@@ -1,5 +1,5 @@
 
-## Lista de Exercícios 04
+## Lista de Exercícios 04 - Interfaces
 
 Atenção: A maioria dos exercícios pede para que o código SIMULE uma operação, como por exemplo, exportar um PDF, salvar um log ou enviar um alerta. Não é necessário implementar a funcionalidade real de exportar um PDF, por exemplo, apenas simular a operação. NO ENTANTO, se você quiser implementar a funcionalidade real, fique à vontade! Possivelmente será necessário pesquisar sobre como fazer isso em Java, adicionar bibliotecas, etc.
 
