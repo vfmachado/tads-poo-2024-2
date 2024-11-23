@@ -1,6 +1,6 @@
 # TRABALHO II - Modelo A
 
-## **Implementação de um Jogo de Xadrez**
+## **Implementação de um "JOGO" de Xadrez**
 
 ### ENTREGA 06/12/2024
 
