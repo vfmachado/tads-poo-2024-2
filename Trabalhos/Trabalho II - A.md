@@ -2,7 +2,7 @@
 
 ## **Implementação de um "JOGO" de Xadrez**
 
-### ENTREGA 06/12/2024
+### ENTREGA & APRESENTAÇÃO 06/12/2024
 
 ### **Objetivo**
 O foco será aplicar conceitos fundamentais da orientação a objetos, garantindo a correta modelagem das peças, tabuleiro e regras básicas do jogo.
@@ -58,7 +58,7 @@ Atenção! Não é necessário implementar um jogo completo (interface/terminal 
   abstract class Peca {
       protected String cor;
       protected Posicao posicao;
-
+      protected String nome;
       public abstract boolean movimentoValido(Posicao destino, Tabuleiro tabuleiro);
   }
 
@@ -85,10 +85,24 @@ Atenção! Não é necessário implementar um jogo completo (interface/terminal 
   1. Código-fonte completo e funcional.
   2. Testes (arquivo MainTestes) cobrindo cenários básicos, como movimentação válida e inválida de peças. 
 
+MainTestes() {
+  main() {
+    // inicia tabuleiro
+    // força uma movimentação
+      // Teste de movimentação válida
+      // Teste de movimentação inválida
+    
+    // cria uma condição no tabuleiro de captura de peça
+    // Teste de captura de peça
+    // Teste de xeque
+    // Teste de xeque-mate
+  }
+}
+
 
 ### **Critérios de Avaliação**
 1. Aplicação correta dos conceitos de POO.
 2. Organização e clareza do código.
 3. Validação das regras do jogo.
-5. Documentação/comentários e JAVADOC do projeto.
+4. Documentação/comentários e JAVADOC do projeto.
 
